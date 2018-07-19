@@ -16,3 +16,13 @@ Usage             :	The data in the designed manner can be downloaded by clickin
 
 
 Contribution     : We both are the student of a engineering college studying first year have done our first project successfully
+
+Technology       : Microsoft.Net
+
+Language		     : C#
+
+Framework	    	 : ASP.Net MVC and Entity Framework
+
+Database 	       : MS Sql serever 2014
+
+Tool             : Visiual Studio
