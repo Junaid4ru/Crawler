@@ -25,4 +25,4 @@ Framework	    	 : ASP.Net MVC and Entity Framework
 
 Database 	       : MS Sql serever 2014
 
-Tool             : Visiual Studio
+Tool             : Visiual Studio 2017
